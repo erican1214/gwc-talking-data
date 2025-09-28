@@ -1,6 +1,13 @@
 # Talking Data: Comparing Favorites Starter Code
 Fork this project to get started on the project.
 
+## About
+- GWC SPP 2023 Data Science Course
+- Involves data collection and analyzation of thousands of movies
+- Compares the data of my favorite movie to other movies in the same genre
+- Uses histogram and scatterplot to showcase data
+
+## Instructions
 ### Project Requirements
 Your project should:
 - Use a variable to store and print the data of your favorite movie.
